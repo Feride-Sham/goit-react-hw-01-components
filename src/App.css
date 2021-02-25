@@ -7,3 +7,6 @@
   margin-right: auto;
   text-align: center;
 }
+p {
+  margin: 0;
+}

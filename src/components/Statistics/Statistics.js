@@ -18,6 +18,10 @@ const Statistics = ({ stats, title }) => {
   );
 };
 
+Statistics.defaultProps = {
+  title: 'no title',
+};
+
 Statistics.propTypes = {
   title: PropTypes.string,
   stats: PropTypes.arrayOf(
