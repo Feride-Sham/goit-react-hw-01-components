@@ -1,0 +1,13 @@
+.transactionHistory {
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  width: 300px;
+  border: 2px solid grey;
+  border-collapse: collapse;
+}
+
+.transactionHistory tr,
+td {
+  border: 1px solid grey;
+}
