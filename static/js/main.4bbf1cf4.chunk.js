@@ -1,2 +1,0 @@
-(this["webpackJsonpstart-react"]=this["webpackJsonpstart-react"]||[]).push([[0],{4:function(t,e,n){"use strict";n.r(e);var r=n(0),c=n.n(r),s=n(2),a=n.n(s),o=(n(9),n(3));a.a.render(Object(o.jsx)(c.a.StrictMode,{}),document.getElementById("root"))},9:function(t,e,n){}},[[4,1,2]]]);
-//# sourceMappingURL=main.4bbf1cf4.chunk.js.map
